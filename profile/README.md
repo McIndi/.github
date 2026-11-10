@@ -12,6 +12,7 @@ We automate and secure IBM DataPower and API Connect estates for banks, insurers
 | [pki_workbench](https://github.com/McIndi/pki_workbench) | Private CA management: root and intermediate CAs, certificate profiles, REST API | PKI and post-quantum readiness work |
 | [project-armory](https://github.com/McIndi/project-armory) | Reference security platform on k3s: Keycloak OIDC, OpenBao secrets and PKI, Envoy Gateway, audit search | The base for running AI agents in regulated environments |
 | [project-garrison](https://github.com/McIndi/project-garrison) | An audited agent runtime (BeeAI Agent Stack) deployed on Armory | Agent runtime identity and guardrails |
+| [catalyst](https://github.com/McIndi/catalyst) | Run the Project Catalyst agent-guardrail demo on your own machine: Vagrant, OVA, qcow2, Apple silicon | Hands-on demo for the agent runtime identity workshop |
 | [SIEMatic](https://github.com/McIndi/SIEMatic) | Security observability: agents, indexer, pipeline search language, dashboards, alerts | Audit trails, including the audit view for Project Catalyst |
 | [delve](https://github.com/McIndi/delve) | Data platform for interactive search, dashboards, and alerts | Operational search and analytics |
 | [adapt](https://github.com/McIndi/adapt) | FastAPI server that turns files into REST APIs and MCP tools for AI agents, with role-based access and audit logging (on PyPI as `adapt-server`) | Governed agent access to enterprise data |
