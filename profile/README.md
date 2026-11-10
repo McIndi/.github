@@ -14,8 +14,10 @@ We automate and secure IBM DataPower and API Connect estates for banks, insurers
 | [project-garrison](https://github.com/McIndi/project-garrison) | An audited agent runtime (BeeAI Agent Stack) deployed on Armory | Agent runtime identity and guardrails |
 | [SIEMatic](https://github.com/McIndi/SIEMatic) | Security observability: agents, indexer, pipeline search language, dashboards, alerts | Audit trails, including the audit view for Project Catalyst |
 | [delve](https://github.com/McIndi/delve) | Data platform for interactive search, dashboards, and alerts | Operational search and analytics |
+| [adapt](https://github.com/McIndi/adapt) | FastAPI server that turns files into REST APIs and MCP tools for AI agents, with role-based access and audit logging (on PyPI as `adapt-server`) | Governed agent access to enterprise data |
+| [trailhead](https://github.com/McIndi/trailhead) | Semantic code search: a tree-sitter code graph with sentence-transformers embeddings and SQLite vector search (on PyPI) | Code understanding and retrieval that stays on your machine |
 
-More: [webutils](https://github.com/McIndi/webutils) (browser-only utilities), [logsieve](https://github.com/McIndi/logsieve) (in-browser log analysis), [adapt](https://github.com/McIndi/adapt) (files to REST APIs), [trailhead](https://github.com/McIndi/trailhead) (local code search).
+More: [webutils](https://github.com/McIndi/webutils) (browser-only utilities) and [logsieve](https://github.com/McIndi/logsieve) (in-browser log analysis).
 
 ## Work with us
 
